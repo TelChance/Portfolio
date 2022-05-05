@@ -17,6 +17,12 @@ function Project() {
       description: "Run Buddy was a site a made to get the hang of using flex boxes and learning how to code in a map.",
       deploy: "https://telchance.github.io/run-buddy/",
       repository: "https://github.com/TelChance/run-buddy/",
+    },
+    {
+    pname: "Music Connect",
+    palt: "Music Connect is an app that allows people to connect thorugh music",
+    description: "Music Connect is an app that allows people to connect thorugh music",
+    repository: "https://github.com/TelChance/Media-App",
     }
   ];
   
